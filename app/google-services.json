@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "32891973023",
+    "firebase_url": "https://sharon-80c75.firebaseio.com",
+    "project_id": "sharon-80c75",
+    "storage_bucket": "sharon-80c75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32891973023:android:ab311f4ec00ea3ca6d61aa",
+        "android_client_info": {
+          "package_name": "roipk.sharonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32891973023-igea489lgsbqgnj0qhicth84hovhlb57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Avf4J-nJUmMC2r7mkV2u9Vuqd63_ULE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32891973023-igea489lgsbqgnj0qhicth84hovhlb57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
